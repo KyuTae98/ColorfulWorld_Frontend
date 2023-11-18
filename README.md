@@ -1,6 +1,6 @@
 ## ColorfulWorld_Frontend
 
-색각 이상자를 위한 혼도색 영역 분류 알고리즘 개발 및 색상 보정(Front-end)
+색각 이상자를 위한 혼동색 영역 분류 알고리즘 개발 및 색상 보정(Front-end)
 
 ## 팀원
 
